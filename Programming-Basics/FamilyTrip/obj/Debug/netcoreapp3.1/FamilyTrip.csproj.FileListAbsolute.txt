@@ -1,0 +1,12 @@
+C:\Users\ivang\source\repos\ExamPreparation\FamilyTrip\bin\Debug\netcoreapp3.1\FamilyTrip.exe
+C:\Users\ivang\source\repos\ExamPreparation\FamilyTrip\bin\Debug\netcoreapp3.1\FamilyTrip.deps.json
+C:\Users\ivang\source\repos\ExamPreparation\FamilyTrip\bin\Debug\netcoreapp3.1\FamilyTrip.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamPreparation\FamilyTrip\bin\Debug\netcoreapp3.1\FamilyTrip.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamPreparation\FamilyTrip\bin\Debug\netcoreapp3.1\FamilyTrip.dll
+C:\Users\ivang\source\repos\ExamPreparation\FamilyTrip\bin\Debug\netcoreapp3.1\FamilyTrip.pdb
+C:\Users\ivang\source\repos\ExamPreparation\FamilyTrip\obj\Debug\netcoreapp3.1\FamilyTrip.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\FamilyTrip\obj\Debug\netcoreapp3.1\FamilyTrip.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamPreparation\FamilyTrip\obj\Debug\netcoreapp3.1\FamilyTrip.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\FamilyTrip\obj\Debug\netcoreapp3.1\FamilyTrip.dll
+C:\Users\ivang\source\repos\ExamPreparation\FamilyTrip\obj\Debug\netcoreapp3.1\FamilyTrip.pdb
+C:\Users\ivang\source\repos\ExamPreparation\FamilyTrip\obj\Debug\netcoreapp3.1\FamilyTrip.genruntimeconfig.cache

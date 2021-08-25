@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ExamPreparation\Club\bin\Debug\netcoreapp3.1\Club.exe
+C:\Users\ivang\source\repos\ExamPreparation\Club\bin\Debug\netcoreapp3.1\Club.deps.json
+C:\Users\ivang\source\repos\ExamPreparation\Club\bin\Debug\netcoreapp3.1\Club.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamPreparation\Club\bin\Debug\netcoreapp3.1\Club.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamPreparation\Club\bin\Debug\netcoreapp3.1\Club.dll
+C:\Users\ivang\source\repos\ExamPreparation\Club\bin\Debug\netcoreapp3.1\Club.pdb
+C:\Users\ivang\source\repos\ExamPreparation\Club\obj\Debug\netcoreapp3.1\Club.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ExamPreparation\Club\obj\Debug\netcoreapp3.1\Club.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\Club\obj\Debug\netcoreapp3.1\Club.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamPreparation\Club\obj\Debug\netcoreapp3.1\Club.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\Club\obj\Debug\netcoreapp3.1\Club.dll
+C:\Users\ivang\source\repos\ExamPreparation\Club\obj\Debug\netcoreapp3.1\Club.pdb
+C:\Users\ivang\source\repos\ExamPreparation\Club\obj\Debug\netcoreapp3.1\Club.genruntimeconfig.cache

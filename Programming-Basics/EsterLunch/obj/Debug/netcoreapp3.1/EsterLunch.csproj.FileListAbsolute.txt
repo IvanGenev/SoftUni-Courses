@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ExamPreparation\EsterLunch\bin\Debug\netcoreapp3.1\EsterLunch.exe
+C:\Users\ivang\source\repos\ExamPreparation\EsterLunch\bin\Debug\netcoreapp3.1\EsterLunch.deps.json
+C:\Users\ivang\source\repos\ExamPreparation\EsterLunch\bin\Debug\netcoreapp3.1\EsterLunch.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamPreparation\EsterLunch\bin\Debug\netcoreapp3.1\EsterLunch.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamPreparation\EsterLunch\bin\Debug\netcoreapp3.1\EsterLunch.dll
+C:\Users\ivang\source\repos\ExamPreparation\EsterLunch\bin\Debug\netcoreapp3.1\EsterLunch.pdb
+C:\Users\ivang\source\repos\ExamPreparation\EsterLunch\obj\Debug\netcoreapp3.1\EsterLunch.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ExamPreparation\EsterLunch\obj\Debug\netcoreapp3.1\EsterLunch.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\EsterLunch\obj\Debug\netcoreapp3.1\EsterLunch.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamPreparation\EsterLunch\obj\Debug\netcoreapp3.1\EsterLunch.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\EsterLunch\obj\Debug\netcoreapp3.1\EsterLunch.dll
+C:\Users\ivang\source\repos\ExamPreparation\EsterLunch\obj\Debug\netcoreapp3.1\EsterLunch.pdb
+C:\Users\ivang\source\repos\ExamPreparation\EsterLunch\obj\Debug\netcoreapp3.1\EsterLunch.genruntimeconfig.cache

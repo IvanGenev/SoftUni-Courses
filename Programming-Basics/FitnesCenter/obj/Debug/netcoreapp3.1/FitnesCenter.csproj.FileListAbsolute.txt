@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ExamPreparation\FitnesCenter\bin\Debug\netcoreapp3.1\FitnesCenter.exe
+C:\Users\ivang\source\repos\ExamPreparation\FitnesCenter\bin\Debug\netcoreapp3.1\FitnesCenter.deps.json
+C:\Users\ivang\source\repos\ExamPreparation\FitnesCenter\bin\Debug\netcoreapp3.1\FitnesCenter.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamPreparation\FitnesCenter\bin\Debug\netcoreapp3.1\FitnesCenter.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamPreparation\FitnesCenter\bin\Debug\netcoreapp3.1\FitnesCenter.dll
+C:\Users\ivang\source\repos\ExamPreparation\FitnesCenter\bin\Debug\netcoreapp3.1\FitnesCenter.pdb
+C:\Users\ivang\source\repos\ExamPreparation\FitnesCenter\obj\Debug\netcoreapp3.1\FitnesCenter.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ExamPreparation\FitnesCenter\obj\Debug\netcoreapp3.1\FitnesCenter.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\FitnesCenter\obj\Debug\netcoreapp3.1\FitnesCenter.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamPreparation\FitnesCenter\obj\Debug\netcoreapp3.1\FitnesCenter.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\FitnesCenter\obj\Debug\netcoreapp3.1\FitnesCenter.dll
+C:\Users\ivang\source\repos\ExamPreparation\FitnesCenter\obj\Debug\netcoreapp3.1\FitnesCenter.pdb
+C:\Users\ivang\source\repos\ExamPreparation\FitnesCenter\obj\Debug\netcoreapp3.1\FitnesCenter.genruntimeconfig.cache

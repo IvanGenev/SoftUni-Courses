@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ExamPreparation\PoolDay\bin\Debug\netcoreapp3.1\PoolDay.exe
+C:\Users\ivang\source\repos\ExamPreparation\PoolDay\bin\Debug\netcoreapp3.1\PoolDay.deps.json
+C:\Users\ivang\source\repos\ExamPreparation\PoolDay\bin\Debug\netcoreapp3.1\PoolDay.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamPreparation\PoolDay\bin\Debug\netcoreapp3.1\PoolDay.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamPreparation\PoolDay\bin\Debug\netcoreapp3.1\PoolDay.dll
+C:\Users\ivang\source\repos\ExamPreparation\PoolDay\bin\Debug\netcoreapp3.1\PoolDay.pdb
+C:\Users\ivang\source\repos\ExamPreparation\PoolDay\obj\Debug\netcoreapp3.1\PoolDay.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ExamPreparation\PoolDay\obj\Debug\netcoreapp3.1\PoolDay.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\PoolDay\obj\Debug\netcoreapp3.1\PoolDay.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamPreparation\PoolDay\obj\Debug\netcoreapp3.1\PoolDay.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\PoolDay\obj\Debug\netcoreapp3.1\PoolDay.dll
+C:\Users\ivang\source\repos\ExamPreparation\PoolDay\obj\Debug\netcoreapp3.1\PoolDay.pdb
+C:\Users\ivang\source\repos\ExamPreparation\PoolDay\obj\Debug\netcoreapp3.1\PoolDay.genruntimeconfig.cache

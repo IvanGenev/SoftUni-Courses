@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ForCycleLAB\SimpleLoops\bin\Debug\netcoreapp3.1\SimpleLoops.exe
+C:\Users\ivang\source\repos\ForCycleLAB\SimpleLoops\bin\Debug\netcoreapp3.1\SimpleLoops.deps.json
+C:\Users\ivang\source\repos\ForCycleLAB\SimpleLoops\bin\Debug\netcoreapp3.1\SimpleLoops.runtimeconfig.json
+C:\Users\ivang\source\repos\ForCycleLAB\SimpleLoops\bin\Debug\netcoreapp3.1\SimpleLoops.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ForCycleLAB\SimpleLoops\bin\Debug\netcoreapp3.1\SimpleLoops.dll
+C:\Users\ivang\source\repos\ForCycleLAB\SimpleLoops\bin\Debug\netcoreapp3.1\SimpleLoops.pdb
+C:\Users\ivang\source\repos\ForCycleLAB\SimpleLoops\obj\Debug\netcoreapp3.1\SimpleLoops.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ForCycleLAB\SimpleLoops\obj\Debug\netcoreapp3.1\SimpleLoops.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ForCycleLAB\SimpleLoops\obj\Debug\netcoreapp3.1\SimpleLoops.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ForCycleLAB\SimpleLoops\obj\Debug\netcoreapp3.1\SimpleLoops.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ForCycleLAB\SimpleLoops\obj\Debug\netcoreapp3.1\SimpleLoops.dll
+C:\Users\ivang\source\repos\ForCycleLAB\SimpleLoops\obj\Debug\netcoreapp3.1\SimpleLoops.pdb
+C:\Users\ivang\source\repos\ForCycleLAB\SimpleLoops\obj\Debug\netcoreapp3.1\SimpleLoops.genruntimeconfig.cache

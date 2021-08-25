@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ForCycleLAB\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ForCycleLAB\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ForCycleLAB\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ForCycleLAB\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ForCycleLAB\LeftAndRightSum\bin\Debug\netcoreapp3.1\LeftAndRightSum.exe
+C:\Users\ivang\source\repos\ForCycleLAB\LeftAndRightSum\bin\Debug\netcoreapp3.1\LeftAndRightSum.deps.json
+C:\Users\ivang\source\repos\ForCycleLAB\LeftAndRightSum\bin\Debug\netcoreapp3.1\LeftAndRightSum.runtimeconfig.json
+C:\Users\ivang\source\repos\ForCycleLAB\LeftAndRightSum\bin\Debug\netcoreapp3.1\LeftAndRightSum.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ForCycleLAB\LeftAndRightSum\bin\Debug\netcoreapp3.1\LeftAndRightSum.dll
+C:\Users\ivang\source\repos\ForCycleLAB\LeftAndRightSum\bin\Debug\netcoreapp3.1\LeftAndRightSum.pdb
+C:\Users\ivang\source\repos\ForCycleLAB\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.dll
+C:\Users\ivang\source\repos\ForCycleLAB\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.pdb
+C:\Users\ivang\source\repos\ForCycleLAB\LeftAndRightSum\obj\Debug\netcoreapp3.1\LeftAndRightSum.genruntimeconfig.cache

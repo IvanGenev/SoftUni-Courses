@@ -1,0 +1,12 @@
+C:\Users\ivang\source\repos\Excersizes\Distance\bin\Debug\netcoreapp3.1\TrapezoidArea.exe
+C:\Users\ivang\source\repos\Excersizes\Distance\bin\Debug\netcoreapp3.1\TrapezoidArea.deps.json
+C:\Users\ivang\source\repos\Excersizes\Distance\bin\Debug\netcoreapp3.1\TrapezoidArea.runtimeconfig.json
+C:\Users\ivang\source\repos\Excersizes\Distance\bin\Debug\netcoreapp3.1\TrapezoidArea.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\Excersizes\Distance\bin\Debug\netcoreapp3.1\TrapezoidArea.dll
+C:\Users\ivang\source\repos\Excersizes\Distance\bin\Debug\netcoreapp3.1\TrapezoidArea.pdb
+C:\Users\ivang\source\repos\Excersizes\Distance\obj\Debug\netcoreapp3.1\TrapezoidArea.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\Excersizes\Distance\obj\Debug\netcoreapp3.1\TrapezoidArea.AssemblyInfo.cs
+C:\Users\ivang\source\repos\Excersizes\Distance\obj\Debug\netcoreapp3.1\TrapezoidArea.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\Excersizes\Distance\obj\Debug\netcoreapp3.1\TrapezoidArea.dll
+C:\Users\ivang\source\repos\Excersizes\Distance\obj\Debug\netcoreapp3.1\TrapezoidArea.pdb
+C:\Users\ivang\source\repos\Excersizes\Distance\obj\Debug\netcoreapp3.1\TrapezoidArea.genruntimeconfig.cache

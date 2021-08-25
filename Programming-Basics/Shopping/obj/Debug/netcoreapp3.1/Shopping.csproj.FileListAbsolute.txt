@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ExamPreparation\Shopping\bin\Debug\netcoreapp3.1\Shopping.exe
+C:\Users\ivang\source\repos\ExamPreparation\Shopping\bin\Debug\netcoreapp3.1\Shopping.deps.json
+C:\Users\ivang\source\repos\ExamPreparation\Shopping\bin\Debug\netcoreapp3.1\Shopping.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamPreparation\Shopping\bin\Debug\netcoreapp3.1\Shopping.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamPreparation\Shopping\bin\Debug\netcoreapp3.1\Shopping.dll
+C:\Users\ivang\source\repos\ExamPreparation\Shopping\bin\Debug\netcoreapp3.1\Shopping.pdb
+C:\Users\ivang\source\repos\ExamPreparation\Shopping\obj\Debug\netcoreapp3.1\Shopping.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ExamPreparation\Shopping\obj\Debug\netcoreapp3.1\Shopping.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\Shopping\obj\Debug\netcoreapp3.1\Shopping.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamPreparation\Shopping\obj\Debug\netcoreapp3.1\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\Shopping\obj\Debug\netcoreapp3.1\Shopping.dll
+C:\Users\ivang\source\repos\ExamPreparation\Shopping\obj\Debug\netcoreapp3.1\Shopping.pdb
+C:\Users\ivang\source\repos\ExamPreparation\Shopping\obj\Debug\netcoreapp3.1\Shopping.genruntimeconfig.cache

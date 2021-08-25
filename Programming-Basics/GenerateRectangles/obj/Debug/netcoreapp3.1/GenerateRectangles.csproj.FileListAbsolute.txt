@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\Excersizes\GenerateRectangles\bin\Debug\netcoreapp3.1\GenerateRectangles.exe
+C:\Users\ivang\source\repos\Excersizes\GenerateRectangles\bin\Debug\netcoreapp3.1\GenerateRectangles.deps.json
+C:\Users\ivang\source\repos\Excersizes\GenerateRectangles\bin\Debug\netcoreapp3.1\GenerateRectangles.runtimeconfig.json
+C:\Users\ivang\source\repos\Excersizes\GenerateRectangles\bin\Debug\netcoreapp3.1\GenerateRectangles.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\Excersizes\GenerateRectangles\bin\Debug\netcoreapp3.1\GenerateRectangles.dll
+C:\Users\ivang\source\repos\Excersizes\GenerateRectangles\bin\Debug\netcoreapp3.1\GenerateRectangles.pdb
+C:\Users\ivang\source\repos\Excersizes\GenerateRectangles\obj\Debug\netcoreapp3.1\GenerateRectangles.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\Excersizes\GenerateRectangles\obj\Debug\netcoreapp3.1\GenerateRectangles.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\Excersizes\GenerateRectangles\obj\Debug\netcoreapp3.1\GenerateRectangles.AssemblyInfo.cs
+C:\Users\ivang\source\repos\Excersizes\GenerateRectangles\obj\Debug\netcoreapp3.1\GenerateRectangles.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\Excersizes\GenerateRectangles\obj\Debug\netcoreapp3.1\GenerateRectangles.dll
+C:\Users\ivang\source\repos\Excersizes\GenerateRectangles\obj\Debug\netcoreapp3.1\GenerateRectangles.pdb
+C:\Users\ivang\source\repos\Excersizes\GenerateRectangles\obj\Debug\netcoreapp3.1\GenerateRectangles.genruntimeconfig.cache

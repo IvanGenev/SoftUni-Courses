@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\Excersizes\DateAfter5Days\bin\Debug\netcoreapp3.1\DateAfter5Days.exe
+C:\Users\ivang\source\repos\Excersizes\DateAfter5Days\bin\Debug\netcoreapp3.1\DateAfter5Days.deps.json
+C:\Users\ivang\source\repos\Excersizes\DateAfter5Days\bin\Debug\netcoreapp3.1\DateAfter5Days.runtimeconfig.json
+C:\Users\ivang\source\repos\Excersizes\DateAfter5Days\bin\Debug\netcoreapp3.1\DateAfter5Days.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\Excersizes\DateAfter5Days\bin\Debug\netcoreapp3.1\DateAfter5Days.dll
+C:\Users\ivang\source\repos\Excersizes\DateAfter5Days\bin\Debug\netcoreapp3.1\DateAfter5Days.pdb
+C:\Users\ivang\source\repos\Excersizes\DateAfter5Days\obj\Debug\netcoreapp3.1\DateAfter5Days.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\Excersizes\DateAfter5Days\obj\Debug\netcoreapp3.1\DateAfter5Days.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\Excersizes\DateAfter5Days\obj\Debug\netcoreapp3.1\DateAfter5Days.AssemblyInfo.cs
+C:\Users\ivang\source\repos\Excersizes\DateAfter5Days\obj\Debug\netcoreapp3.1\DateAfter5Days.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\Excersizes\DateAfter5Days\obj\Debug\netcoreapp3.1\DateAfter5Days.dll
+C:\Users\ivang\source\repos\Excersizes\DateAfter5Days\obj\Debug\netcoreapp3.1\DateAfter5Days.pdb
+C:\Users\ivang\source\repos\Excersizes\DateAfter5Days\obj\Debug\netcoreapp3.1\DateAfter5Days.genruntimeconfig.cache

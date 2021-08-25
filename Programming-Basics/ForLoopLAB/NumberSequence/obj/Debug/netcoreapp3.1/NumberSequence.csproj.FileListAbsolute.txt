@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ForCycleLAB\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.exe
+C:\Users\ivang\source\repos\ForCycleLAB\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.deps.json
+C:\Users\ivang\source\repos\ForCycleLAB\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.json
+C:\Users\ivang\source\repos\ForCycleLAB\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ForCycleLAB\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.dll
+C:\Users\ivang\source\repos\ForCycleLAB\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.pdb
+C:\Users\ivang\source\repos\ForCycleLAB\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ForCycleLAB\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ForCycleLAB\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ForCycleLAB\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.dll
+C:\Users\ivang\source\repos\ForCycleLAB\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.pdb
+C:\Users\ivang\source\repos\ForCycleLAB\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.genruntimeconfig.cache
+C:\Users\ivang\source\repos\ForCycleLAB\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.csprojAssemblyReference.cache

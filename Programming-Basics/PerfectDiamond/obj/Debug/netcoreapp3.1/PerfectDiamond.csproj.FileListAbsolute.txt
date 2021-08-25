@@ -1,0 +1,12 @@
+C:\Users\ivang\source\repos\Excersizes\PerfectDiamond\bin\Debug\netcoreapp3.1\PerfectDiamond.exe
+C:\Users\ivang\source\repos\Excersizes\PerfectDiamond\bin\Debug\netcoreapp3.1\PerfectDiamond.deps.json
+C:\Users\ivang\source\repos\Excersizes\PerfectDiamond\bin\Debug\netcoreapp3.1\PerfectDiamond.runtimeconfig.json
+C:\Users\ivang\source\repos\Excersizes\PerfectDiamond\bin\Debug\netcoreapp3.1\PerfectDiamond.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\Excersizes\PerfectDiamond\bin\Debug\netcoreapp3.1\PerfectDiamond.dll
+C:\Users\ivang\source\repos\Excersizes\PerfectDiamond\bin\Debug\netcoreapp3.1\PerfectDiamond.pdb
+C:\Users\ivang\source\repos\Excersizes\PerfectDiamond\obj\Debug\netcoreapp3.1\PerfectDiamond.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\Excersizes\PerfectDiamond\obj\Debug\netcoreapp3.1\PerfectDiamond.AssemblyInfo.cs
+C:\Users\ivang\source\repos\Excersizes\PerfectDiamond\obj\Debug\netcoreapp3.1\PerfectDiamond.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\Excersizes\PerfectDiamond\obj\Debug\netcoreapp3.1\PerfectDiamond.dll
+C:\Users\ivang\source\repos\Excersizes\PerfectDiamond\obj\Debug\netcoreapp3.1\PerfectDiamond.pdb
+C:\Users\ivang\source\repos\Excersizes\PerfectDiamond\obj\Debug\netcoreapp3.1\PerfectDiamond.genruntimeconfig.cache

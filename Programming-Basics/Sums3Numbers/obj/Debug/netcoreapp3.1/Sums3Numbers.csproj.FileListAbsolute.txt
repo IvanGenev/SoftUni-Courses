@@ -1,0 +1,12 @@
+C:\Users\ivang\source\repos\Excersizes\Sums3Numbers\obj\Debug\netcoreapp3.1\Sums3Numbers.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\Excersizes\Sums3Numbers\obj\Debug\netcoreapp3.1\Sums3Numbers.AssemblyInfo.cs
+C:\Users\ivang\source\repos\Excersizes\Sums3Numbers\obj\Debug\netcoreapp3.1\Sums3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\Excersizes\Sums3Numbers\bin\Debug\netcoreapp3.1\Sums3Numbers.exe
+C:\Users\ivang\source\repos\Excersizes\Sums3Numbers\bin\Debug\netcoreapp3.1\Sums3Numbers.deps.json
+C:\Users\ivang\source\repos\Excersizes\Sums3Numbers\bin\Debug\netcoreapp3.1\Sums3Numbers.runtimeconfig.json
+C:\Users\ivang\source\repos\Excersizes\Sums3Numbers\bin\Debug\netcoreapp3.1\Sums3Numbers.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\Excersizes\Sums3Numbers\bin\Debug\netcoreapp3.1\Sums3Numbers.dll
+C:\Users\ivang\source\repos\Excersizes\Sums3Numbers\bin\Debug\netcoreapp3.1\Sums3Numbers.pdb
+C:\Users\ivang\source\repos\Excersizes\Sums3Numbers\obj\Debug\netcoreapp3.1\Sums3Numbers.dll
+C:\Users\ivang\source\repos\Excersizes\Sums3Numbers\obj\Debug\netcoreapp3.1\Sums3Numbers.pdb
+C:\Users\ivang\source\repos\Excersizes\Sums3Numbers\obj\Debug\netcoreapp3.1\Sums3Numbers.genruntimeconfig.cache

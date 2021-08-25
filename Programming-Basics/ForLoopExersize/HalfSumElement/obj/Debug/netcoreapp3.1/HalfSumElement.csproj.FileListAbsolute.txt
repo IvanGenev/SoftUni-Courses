@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ForLoopExersize\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.exe
+C:\Users\ivang\source\repos\ForLoopExersize\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.deps.json
+C:\Users\ivang\source\repos\ForLoopExersize\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.runtimeconfig.json
+C:\Users\ivang\source\repos\ForLoopExersize\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ForLoopExersize\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.dll
+C:\Users\ivang\source\repos\ForLoopExersize\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.pdb
+C:\Users\ivang\source\repos\ForLoopExersize\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ForLoopExersize\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ForLoopExersize\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ForLoopExersize\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ForLoopExersize\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.dll
+C:\Users\ivang\source\repos\ForLoopExersize\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.pdb
+C:\Users\ivang\source\repos\ForLoopExersize\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.genruntimeconfig.cache

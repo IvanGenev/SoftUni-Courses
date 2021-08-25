@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\Excersizes\FlowersShop\bin\Debug\netcoreapp3.1\FlowersShop.exe
+C:\Users\ivang\source\repos\Excersizes\FlowersShop\bin\Debug\netcoreapp3.1\FlowersShop.deps.json
+C:\Users\ivang\source\repos\Excersizes\FlowersShop\bin\Debug\netcoreapp3.1\FlowersShop.runtimeconfig.json
+C:\Users\ivang\source\repos\Excersizes\FlowersShop\bin\Debug\netcoreapp3.1\FlowersShop.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\Excersizes\FlowersShop\bin\Debug\netcoreapp3.1\FlowersShop.dll
+C:\Users\ivang\source\repos\Excersizes\FlowersShop\bin\Debug\netcoreapp3.1\FlowersShop.pdb
+C:\Users\ivang\source\repos\Excersizes\FlowersShop\obj\Debug\netcoreapp3.1\FlowersShop.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\Excersizes\FlowersShop\obj\Debug\netcoreapp3.1\FlowersShop.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\Excersizes\FlowersShop\obj\Debug\netcoreapp3.1\FlowersShop.AssemblyInfo.cs
+C:\Users\ivang\source\repos\Excersizes\FlowersShop\obj\Debug\netcoreapp3.1\FlowersShop.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\Excersizes\FlowersShop\obj\Debug\netcoreapp3.1\FlowersShop.dll
+C:\Users\ivang\source\repos\Excersizes\FlowersShop\obj\Debug\netcoreapp3.1\FlowersShop.pdb
+C:\Users\ivang\source\repos\Excersizes\FlowersShop\obj\Debug\netcoreapp3.1\FlowersShop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ExamBasics28022021\FootballKit\bin\Debug\netcoreapp3.1\FootballKit.exe
+C:\Users\ivang\source\repos\ExamBasics28022021\FootballKit\bin\Debug\netcoreapp3.1\FootballKit.deps.json
+C:\Users\ivang\source\repos\ExamBasics28022021\FootballKit\bin\Debug\netcoreapp3.1\FootballKit.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamBasics28022021\FootballKit\bin\Debug\netcoreapp3.1\FootballKit.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamBasics28022021\FootballKit\bin\Debug\netcoreapp3.1\FootballKit.dll
+C:\Users\ivang\source\repos\ExamBasics28022021\FootballKit\bin\Debug\netcoreapp3.1\FootballKit.pdb
+C:\Users\ivang\source\repos\ExamBasics28022021\FootballKit\obj\Debug\netcoreapp3.1\FootballKit.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ExamBasics28022021\FootballKit\obj\Debug\netcoreapp3.1\FootballKit.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamBasics28022021\FootballKit\obj\Debug\netcoreapp3.1\FootballKit.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamBasics28022021\FootballKit\obj\Debug\netcoreapp3.1\FootballKit.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamBasics28022021\FootballKit\obj\Debug\netcoreapp3.1\FootballKit.dll
+C:\Users\ivang\source\repos\ExamBasics28022021\FootballKit\obj\Debug\netcoreapp3.1\FootballKit.pdb
+C:\Users\ivang\source\repos\ExamBasics28022021\FootballKit\obj\Debug\netcoreapp3.1\FootballKit.genruntimeconfig.cache

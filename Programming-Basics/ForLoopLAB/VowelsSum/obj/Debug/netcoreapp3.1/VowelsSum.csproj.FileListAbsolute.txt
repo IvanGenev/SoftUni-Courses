@@ -1,0 +1,12 @@
+C:\Users\ivang\source\repos\ForCycleLAB\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.exe
+C:\Users\ivang\source\repos\ForCycleLAB\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.deps.json
+C:\Users\ivang\source\repos\ForCycleLAB\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.runtimeconfig.json
+C:\Users\ivang\source\repos\ForCycleLAB\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ForCycleLAB\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.dll
+C:\Users\ivang\source\repos\ForCycleLAB\VowelsSum\bin\Debug\netcoreapp3.1\VowelsSum.pdb
+C:\Users\ivang\source\repos\ForCycleLAB\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ForCycleLAB\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ForCycleLAB\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ForCycleLAB\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.dll
+C:\Users\ivang\source\repos\ForCycleLAB\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.pdb
+C:\Users\ivang\source\repos\ForCycleLAB\VowelsSum\obj\Debug\netcoreapp3.1\VowelsSum.genruntimeconfig.cache

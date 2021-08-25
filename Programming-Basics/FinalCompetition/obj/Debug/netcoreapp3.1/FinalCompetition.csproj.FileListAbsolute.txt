@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ExamBasics28022021\FinalCompetition\bin\Debug\netcoreapp3.1\FinalCompetition.exe
+C:\Users\ivang\source\repos\ExamBasics28022021\FinalCompetition\bin\Debug\netcoreapp3.1\FinalCompetition.deps.json
+C:\Users\ivang\source\repos\ExamBasics28022021\FinalCompetition\bin\Debug\netcoreapp3.1\FinalCompetition.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamBasics28022021\FinalCompetition\bin\Debug\netcoreapp3.1\FinalCompetition.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamBasics28022021\FinalCompetition\bin\Debug\netcoreapp3.1\FinalCompetition.dll
+C:\Users\ivang\source\repos\ExamBasics28022021\FinalCompetition\bin\Debug\netcoreapp3.1\FinalCompetition.pdb
+C:\Users\ivang\source\repos\ExamBasics28022021\FinalCompetition\obj\Debug\netcoreapp3.1\FinalCompetition.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ExamBasics28022021\FinalCompetition\obj\Debug\netcoreapp3.1\FinalCompetition.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamBasics28022021\FinalCompetition\obj\Debug\netcoreapp3.1\FinalCompetition.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamBasics28022021\FinalCompetition\obj\Debug\netcoreapp3.1\FinalCompetition.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamBasics28022021\FinalCompetition\obj\Debug\netcoreapp3.1\FinalCompetition.dll
+C:\Users\ivang\source\repos\ExamBasics28022021\FinalCompetition\obj\Debug\netcoreapp3.1\FinalCompetition.pdb
+C:\Users\ivang\source\repos\ExamBasics28022021\FinalCompetition\obj\Debug\netcoreapp3.1\FinalCompetition.genruntimeconfig.cache

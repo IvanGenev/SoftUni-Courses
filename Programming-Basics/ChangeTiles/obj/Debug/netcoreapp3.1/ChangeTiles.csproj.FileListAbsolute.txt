@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\Excersizes\ChangeTiles\bin\Debug\netcoreapp3.1\ChangeTiles.exe
+C:\Users\ivang\source\repos\Excersizes\ChangeTiles\bin\Debug\netcoreapp3.1\ChangeTiles.deps.json
+C:\Users\ivang\source\repos\Excersizes\ChangeTiles\bin\Debug\netcoreapp3.1\ChangeTiles.runtimeconfig.json
+C:\Users\ivang\source\repos\Excersizes\ChangeTiles\bin\Debug\netcoreapp3.1\ChangeTiles.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\Excersizes\ChangeTiles\bin\Debug\netcoreapp3.1\ChangeTiles.dll
+C:\Users\ivang\source\repos\Excersizes\ChangeTiles\bin\Debug\netcoreapp3.1\ChangeTiles.pdb
+C:\Users\ivang\source\repos\Excersizes\ChangeTiles\obj\Debug\netcoreapp3.1\ChangeTiles.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\Excersizes\ChangeTiles\obj\Debug\netcoreapp3.1\ChangeTiles.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\Excersizes\ChangeTiles\obj\Debug\netcoreapp3.1\ChangeTiles.AssemblyInfo.cs
+C:\Users\ivang\source\repos\Excersizes\ChangeTiles\obj\Debug\netcoreapp3.1\ChangeTiles.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\Excersizes\ChangeTiles\obj\Debug\netcoreapp3.1\ChangeTiles.dll
+C:\Users\ivang\source\repos\Excersizes\ChangeTiles\obj\Debug\netcoreapp3.1\ChangeTiles.pdb
+C:\Users\ivang\source\repos\Excersizes\ChangeTiles\obj\Debug\netcoreapp3.1\ChangeTiles.genruntimeconfig.cache

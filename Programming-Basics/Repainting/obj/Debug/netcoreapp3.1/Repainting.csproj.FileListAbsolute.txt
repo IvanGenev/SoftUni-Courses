@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ExamPreparation\Repainting\bin\Debug\netcoreapp3.1\Repainting.exe
+C:\Users\ivang\source\repos\ExamPreparation\Repainting\bin\Debug\netcoreapp3.1\Repainting.deps.json
+C:\Users\ivang\source\repos\ExamPreparation\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamPreparation\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamPreparation\Repainting\bin\Debug\netcoreapp3.1\Repainting.dll
+C:\Users\ivang\source\repos\ExamPreparation\Repainting\bin\Debug\netcoreapp3.1\Repainting.pdb
+C:\Users\ivang\source\repos\ExamPreparation\Repainting\obj\Debug\netcoreapp3.1\Repainting.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ExamPreparation\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamPreparation\Repainting\obj\Debug\netcoreapp3.1\Repainting.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\Repainting\obj\Debug\netcoreapp3.1\Repainting.dll
+C:\Users\ivang\source\repos\ExamPreparation\Repainting\obj\Debug\netcoreapp3.1\Repainting.pdb
+C:\Users\ivang\source\repos\ExamPreparation\Repainting\obj\Debug\netcoreapp3.1\Repainting.genruntimeconfig.cache

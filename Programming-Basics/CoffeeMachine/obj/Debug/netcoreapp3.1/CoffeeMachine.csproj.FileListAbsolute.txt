@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ExamPreparation\CoffeeMachine\bin\Debug\netcoreapp3.1\CoffeeMachine.exe
+C:\Users\ivang\source\repos\ExamPreparation\CoffeeMachine\bin\Debug\netcoreapp3.1\CoffeeMachine.deps.json
+C:\Users\ivang\source\repos\ExamPreparation\CoffeeMachine\bin\Debug\netcoreapp3.1\CoffeeMachine.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamPreparation\CoffeeMachine\bin\Debug\netcoreapp3.1\CoffeeMachine.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamPreparation\CoffeeMachine\bin\Debug\netcoreapp3.1\CoffeeMachine.dll
+C:\Users\ivang\source\repos\ExamPreparation\CoffeeMachine\bin\Debug\netcoreapp3.1\CoffeeMachine.pdb
+C:\Users\ivang\source\repos\ExamPreparation\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ExamPreparation\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamPreparation\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.dll
+C:\Users\ivang\source\repos\ExamPreparation\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.pdb
+C:\Users\ivang\source\repos\ExamPreparation\CoffeeMachine\obj\Debug\netcoreapp3.1\CoffeeMachine.genruntimeconfig.cache

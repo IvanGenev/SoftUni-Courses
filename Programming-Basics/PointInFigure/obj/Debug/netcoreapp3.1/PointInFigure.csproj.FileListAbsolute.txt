@@ -1,0 +1,12 @@
+C:\Users\ivang\source\repos\ExamPreparation\PointInFigure\bin\Debug\netcoreapp3.1\PointInFigure.exe
+C:\Users\ivang\source\repos\ExamPreparation\PointInFigure\bin\Debug\netcoreapp3.1\PointInFigure.deps.json
+C:\Users\ivang\source\repos\ExamPreparation\PointInFigure\bin\Debug\netcoreapp3.1\PointInFigure.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamPreparation\PointInFigure\bin\Debug\netcoreapp3.1\PointInFigure.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamPreparation\PointInFigure\bin\Debug\netcoreapp3.1\PointInFigure.dll
+C:\Users\ivang\source\repos\ExamPreparation\PointInFigure\bin\Debug\netcoreapp3.1\PointInFigure.pdb
+C:\Users\ivang\source\repos\ExamPreparation\PointInFigure\obj\Debug\netcoreapp3.1\PointInFigure.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\PointInFigure\obj\Debug\netcoreapp3.1\PointInFigure.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamPreparation\PointInFigure\obj\Debug\netcoreapp3.1\PointInFigure.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\PointInFigure\obj\Debug\netcoreapp3.1\PointInFigure.dll
+C:\Users\ivang\source\repos\ExamPreparation\PointInFigure\obj\Debug\netcoreapp3.1\PointInFigure.pdb
+C:\Users\ivang\source\repos\ExamPreparation\PointInFigure\obj\Debug\netcoreapp3.1\PointInFigure.genruntimeconfig.cache

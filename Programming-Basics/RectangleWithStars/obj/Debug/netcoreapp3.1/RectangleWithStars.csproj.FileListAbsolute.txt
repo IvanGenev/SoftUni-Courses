@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\Excersizes\RectangleWithStars\bin\Debug\netcoreapp3.1\RectangleWithStars.exe
+C:\Users\ivang\source\repos\Excersizes\RectangleWithStars\bin\Debug\netcoreapp3.1\RectangleWithStars.deps.json
+C:\Users\ivang\source\repos\Excersizes\RectangleWithStars\bin\Debug\netcoreapp3.1\RectangleWithStars.runtimeconfig.json
+C:\Users\ivang\source\repos\Excersizes\RectangleWithStars\bin\Debug\netcoreapp3.1\RectangleWithStars.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\Excersizes\RectangleWithStars\bin\Debug\netcoreapp3.1\RectangleWithStars.dll
+C:\Users\ivang\source\repos\Excersizes\RectangleWithStars\bin\Debug\netcoreapp3.1\RectangleWithStars.pdb
+C:\Users\ivang\source\repos\Excersizes\RectangleWithStars\obj\Debug\netcoreapp3.1\RectangleWithStars.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\Excersizes\RectangleWithStars\obj\Debug\netcoreapp3.1\RectangleWithStars.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\Excersizes\RectangleWithStars\obj\Debug\netcoreapp3.1\RectangleWithStars.AssemblyInfo.cs
+C:\Users\ivang\source\repos\Excersizes\RectangleWithStars\obj\Debug\netcoreapp3.1\RectangleWithStars.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\Excersizes\RectangleWithStars\obj\Debug\netcoreapp3.1\RectangleWithStars.dll
+C:\Users\ivang\source\repos\Excersizes\RectangleWithStars\obj\Debug\netcoreapp3.1\RectangleWithStars.pdb
+C:\Users\ivang\source\repos\Excersizes\RectangleWithStars\obj\Debug\netcoreapp3.1\RectangleWithStars.genruntimeconfig.cache

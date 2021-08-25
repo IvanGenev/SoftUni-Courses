@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ExamBasics28022021\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.exe
+C:\Users\ivang\source\repos\ExamBasics28022021\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.deps.json
+C:\Users\ivang\source\repos\ExamBasics28022021\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamBasics28022021\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamBasics28022021\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.dll
+C:\Users\ivang\source\repos\ExamBasics28022021\BestPlayer\bin\Debug\netcoreapp3.1\BestPlayer.pdb
+C:\Users\ivang\source\repos\ExamBasics28022021\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamBasics28022021\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamBasics28022021\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamBasics28022021\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.dll
+C:\Users\ivang\source\repos\ExamBasics28022021\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.pdb
+C:\Users\ivang\source\repos\ExamBasics28022021\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.genruntimeconfig.cache
+C:\Users\ivang\source\repos\ExamBasics28022021\BestPlayer\obj\Debug\netcoreapp3.1\BestPlayer.csprojAssemblyReference.cache

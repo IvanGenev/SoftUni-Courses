@@ -1,0 +1,12 @@
+C:\Users\ivang\source\repos\ForCycleLAB\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.exe
+C:\Users\ivang\source\repos\ForCycleLAB\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.deps.json
+C:\Users\ivang\source\repos\ForCycleLAB\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.runtimeconfig.json
+C:\Users\ivang\source\repos\ForCycleLAB\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ForCycleLAB\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.dll
+C:\Users\ivang\source\repos\ForCycleLAB\CharacterSequence\bin\Debug\netcoreapp3.1\CharacterSequence.pdb
+C:\Users\ivang\source\repos\ForCycleLAB\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ForCycleLAB\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ForCycleLAB\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ForCycleLAB\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.dll
+C:\Users\ivang\source\repos\ForCycleLAB\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.pdb
+C:\Users\ivang\source\repos\ForCycleLAB\CharacterSequence\obj\Debug\netcoreapp3.1\CharacterSequence.genruntimeconfig.cache

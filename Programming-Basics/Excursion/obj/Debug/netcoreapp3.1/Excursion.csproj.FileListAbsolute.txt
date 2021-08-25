@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ExamBasics28022021\Excursion\bin\Debug\netcoreapp3.1\Excursion.exe
+C:\Users\ivang\source\repos\ExamBasics28022021\Excursion\bin\Debug\netcoreapp3.1\Excursion.deps.json
+C:\Users\ivang\source\repos\ExamBasics28022021\Excursion\bin\Debug\netcoreapp3.1\Excursion.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamBasics28022021\Excursion\bin\Debug\netcoreapp3.1\Excursion.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamBasics28022021\Excursion\bin\Debug\netcoreapp3.1\Excursion.dll
+C:\Users\ivang\source\repos\ExamBasics28022021\Excursion\bin\Debug\netcoreapp3.1\Excursion.pdb
+C:\Users\ivang\source\repos\ExamBasics28022021\Excursion\obj\Debug\netcoreapp3.1\Excursion.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ExamBasics28022021\Excursion\obj\Debug\netcoreapp3.1\Excursion.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamBasics28022021\Excursion\obj\Debug\netcoreapp3.1\Excursion.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamBasics28022021\Excursion\obj\Debug\netcoreapp3.1\Excursion.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamBasics28022021\Excursion\obj\Debug\netcoreapp3.1\Excursion.dll
+C:\Users\ivang\source\repos\ExamBasics28022021\Excursion\obj\Debug\netcoreapp3.1\Excursion.pdb
+C:\Users\ivang\source\repos\ExamBasics28022021\Excursion\obj\Debug\netcoreapp3.1\Excursion.genruntimeconfig.cache

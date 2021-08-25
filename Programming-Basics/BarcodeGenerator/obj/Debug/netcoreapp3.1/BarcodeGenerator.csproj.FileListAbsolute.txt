@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ExamPreparation\BarcodeGenerator\bin\Debug\netcoreapp3.1\BarcodeGenerator.exe
+C:\Users\ivang\source\repos\ExamPreparation\BarcodeGenerator\bin\Debug\netcoreapp3.1\BarcodeGenerator.deps.json
+C:\Users\ivang\source\repos\ExamPreparation\BarcodeGenerator\bin\Debug\netcoreapp3.1\BarcodeGenerator.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamPreparation\BarcodeGenerator\bin\Debug\netcoreapp3.1\BarcodeGenerator.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamPreparation\BarcodeGenerator\bin\Debug\netcoreapp3.1\BarcodeGenerator.dll
+C:\Users\ivang\source\repos\ExamPreparation\BarcodeGenerator\bin\Debug\netcoreapp3.1\BarcodeGenerator.pdb
+C:\Users\ivang\source\repos\ExamPreparation\BarcodeGenerator\obj\Debug\netcoreapp3.1\BarcodeGenerator.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ExamPreparation\BarcodeGenerator\obj\Debug\netcoreapp3.1\BarcodeGenerator.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\BarcodeGenerator\obj\Debug\netcoreapp3.1\BarcodeGenerator.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamPreparation\BarcodeGenerator\obj\Debug\netcoreapp3.1\BarcodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\BarcodeGenerator\obj\Debug\netcoreapp3.1\BarcodeGenerator.dll
+C:\Users\ivang\source\repos\ExamPreparation\BarcodeGenerator\obj\Debug\netcoreapp3.1\BarcodeGenerator.pdb
+C:\Users\ivang\source\repos\ExamPreparation\BarcodeGenerator\obj\Debug\netcoreapp3.1\BarcodeGenerator.genruntimeconfig.cache

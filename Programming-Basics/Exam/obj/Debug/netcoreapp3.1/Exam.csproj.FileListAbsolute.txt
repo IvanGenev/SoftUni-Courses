@@ -1,0 +1,12 @@
+C:\Users\ivang\source\repos\ExamBasics28022021\Exam\bin\Debug\netcoreapp3.1\Exam.exe
+C:\Users\ivang\source\repos\ExamBasics28022021\Exam\bin\Debug\netcoreapp3.1\Exam.deps.json
+C:\Users\ivang\source\repos\ExamBasics28022021\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamBasics28022021\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamBasics28022021\Exam\bin\Debug\netcoreapp3.1\Exam.dll
+C:\Users\ivang\source\repos\ExamBasics28022021\Exam\bin\Debug\netcoreapp3.1\Exam.pdb
+C:\Users\ivang\source\repos\ExamBasics28022021\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamBasics28022021\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamBasics28022021\Exam\obj\Debug\netcoreapp3.1\Exam.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamBasics28022021\Exam\obj\Debug\netcoreapp3.1\Exam.dll
+C:\Users\ivang\source\repos\ExamBasics28022021\Exam\obj\Debug\netcoreapp3.1\Exam.pdb
+C:\Users\ivang\source\repos\ExamBasics28022021\Exam\obj\Debug\netcoreapp3.1\Exam.genruntimeconfig.cache

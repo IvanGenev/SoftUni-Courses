@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ExamPreparation\PCGameShop\bin\Debug\netcoreapp3.1\PCGameShop.exe
+C:\Users\ivang\source\repos\ExamPreparation\PCGameShop\bin\Debug\netcoreapp3.1\PCGameShop.deps.json
+C:\Users\ivang\source\repos\ExamPreparation\PCGameShop\bin\Debug\netcoreapp3.1\PCGameShop.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamPreparation\PCGameShop\bin\Debug\netcoreapp3.1\PCGameShop.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamPreparation\PCGameShop\bin\Debug\netcoreapp3.1\PCGameShop.dll
+C:\Users\ivang\source\repos\ExamPreparation\PCGameShop\bin\Debug\netcoreapp3.1\PCGameShop.pdb
+C:\Users\ivang\source\repos\ExamPreparation\PCGameShop\obj\Debug\netcoreapp3.1\PCGameShop.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ExamPreparation\PCGameShop\obj\Debug\netcoreapp3.1\PCGameShop.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\PCGameShop\obj\Debug\netcoreapp3.1\PCGameShop.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamPreparation\PCGameShop\obj\Debug\netcoreapp3.1\PCGameShop.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\PCGameShop\obj\Debug\netcoreapp3.1\PCGameShop.dll
+C:\Users\ivang\source\repos\ExamPreparation\PCGameShop\obj\Debug\netcoreapp3.1\PCGameShop.pdb
+C:\Users\ivang\source\repos\ExamPreparation\PCGameShop\obj\Debug\netcoreapp3.1\PCGameShop.genruntimeconfig.cache

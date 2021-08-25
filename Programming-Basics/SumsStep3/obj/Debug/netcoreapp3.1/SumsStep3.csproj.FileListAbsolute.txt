@@ -1,0 +1,12 @@
+C:\Users\ivang\source\repos\Excersizes\SumsStep3\bin\Debug\netcoreapp3.1\SumsStep3.exe
+C:\Users\ivang\source\repos\Excersizes\SumsStep3\bin\Debug\netcoreapp3.1\SumsStep3.deps.json
+C:\Users\ivang\source\repos\Excersizes\SumsStep3\bin\Debug\netcoreapp3.1\SumsStep3.runtimeconfig.json
+C:\Users\ivang\source\repos\Excersizes\SumsStep3\bin\Debug\netcoreapp3.1\SumsStep3.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\Excersizes\SumsStep3\bin\Debug\netcoreapp3.1\SumsStep3.dll
+C:\Users\ivang\source\repos\Excersizes\SumsStep3\bin\Debug\netcoreapp3.1\SumsStep3.pdb
+C:\Users\ivang\source\repos\Excersizes\SumsStep3\obj\Debug\netcoreapp3.1\SumsStep3.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\Excersizes\SumsStep3\obj\Debug\netcoreapp3.1\SumsStep3.AssemblyInfo.cs
+C:\Users\ivang\source\repos\Excersizes\SumsStep3\obj\Debug\netcoreapp3.1\SumsStep3.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\Excersizes\SumsStep3\obj\Debug\netcoreapp3.1\SumsStep3.dll
+C:\Users\ivang\source\repos\Excersizes\SumsStep3\obj\Debug\netcoreapp3.1\SumsStep3.pdb
+C:\Users\ivang\source\repos\Excersizes\SumsStep3\obj\Debug\netcoreapp3.1\SumsStep3.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ExamBasics28022021\UniquePINCodes\bin\Debug\netcoreapp3.1\UniquePINCodes.exe
+C:\Users\ivang\source\repos\ExamBasics28022021\UniquePINCodes\bin\Debug\netcoreapp3.1\UniquePINCodes.deps.json
+C:\Users\ivang\source\repos\ExamBasics28022021\UniquePINCodes\bin\Debug\netcoreapp3.1\UniquePINCodes.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamBasics28022021\UniquePINCodes\bin\Debug\netcoreapp3.1\UniquePINCodes.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamBasics28022021\UniquePINCodes\bin\Debug\netcoreapp3.1\UniquePINCodes.dll
+C:\Users\ivang\source\repos\ExamBasics28022021\UniquePINCodes\bin\Debug\netcoreapp3.1\UniquePINCodes.pdb
+C:\Users\ivang\source\repos\ExamBasics28022021\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ExamBasics28022021\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamBasics28022021\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamBasics28022021\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamBasics28022021\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.dll
+C:\Users\ivang\source\repos\ExamBasics28022021\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.pdb
+C:\Users\ivang\source\repos\ExamBasics28022021\UniquePINCodes\obj\Debug\netcoreapp3.1\UniquePINCodes.genruntimeconfig.cache

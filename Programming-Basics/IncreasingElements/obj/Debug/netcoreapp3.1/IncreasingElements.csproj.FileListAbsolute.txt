@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\Excersizes\IncreasingElements\bin\Debug\netcoreapp3.1\IncreasingElements.exe
+C:\Users\ivang\source\repos\Excersizes\IncreasingElements\bin\Debug\netcoreapp3.1\IncreasingElements.deps.json
+C:\Users\ivang\source\repos\Excersizes\IncreasingElements\bin\Debug\netcoreapp3.1\IncreasingElements.runtimeconfig.json
+C:\Users\ivang\source\repos\Excersizes\IncreasingElements\bin\Debug\netcoreapp3.1\IncreasingElements.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\Excersizes\IncreasingElements\bin\Debug\netcoreapp3.1\IncreasingElements.dll
+C:\Users\ivang\source\repos\Excersizes\IncreasingElements\bin\Debug\netcoreapp3.1\IncreasingElements.pdb
+C:\Users\ivang\source\repos\Excersizes\IncreasingElements\obj\Debug\netcoreapp3.1\IncreasingElements.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\Excersizes\IncreasingElements\obj\Debug\netcoreapp3.1\IncreasingElements.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\Excersizes\IncreasingElements\obj\Debug\netcoreapp3.1\IncreasingElements.AssemblyInfo.cs
+C:\Users\ivang\source\repos\Excersizes\IncreasingElements\obj\Debug\netcoreapp3.1\IncreasingElements.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\Excersizes\IncreasingElements\obj\Debug\netcoreapp3.1\IncreasingElements.dll
+C:\Users\ivang\source\repos\Excersizes\IncreasingElements\obj\Debug\netcoreapp3.1\IncreasingElements.pdb
+C:\Users\ivang\source\repos\Excersizes\IncreasingElements\obj\Debug\netcoreapp3.1\IncreasingElements.genruntimeconfig.cache

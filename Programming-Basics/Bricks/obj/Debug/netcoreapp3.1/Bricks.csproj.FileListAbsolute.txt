@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ExamPreparation\Bricks\bin\Debug\netcoreapp3.1\Bricks.exe
+C:\Users\ivang\source\repos\ExamPreparation\Bricks\bin\Debug\netcoreapp3.1\Bricks.deps.json
+C:\Users\ivang\source\repos\ExamPreparation\Bricks\bin\Debug\netcoreapp3.1\Bricks.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamPreparation\Bricks\bin\Debug\netcoreapp3.1\Bricks.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamPreparation\Bricks\bin\Debug\netcoreapp3.1\Bricks.dll
+C:\Users\ivang\source\repos\ExamPreparation\Bricks\bin\Debug\netcoreapp3.1\Bricks.pdb
+C:\Users\ivang\source\repos\ExamPreparation\Bricks\obj\Debug\netcoreapp3.1\Bricks.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ExamPreparation\Bricks\obj\Debug\netcoreapp3.1\Bricks.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\Bricks\obj\Debug\netcoreapp3.1\Bricks.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamPreparation\Bricks\obj\Debug\netcoreapp3.1\Bricks.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\Bricks\obj\Debug\netcoreapp3.1\Bricks.dll
+C:\Users\ivang\source\repos\ExamPreparation\Bricks\obj\Debug\netcoreapp3.1\Bricks.pdb
+C:\Users\ivang\source\repos\ExamPreparation\Bricks\obj\Debug\netcoreapp3.1\Bricks.genruntimeconfig.cache

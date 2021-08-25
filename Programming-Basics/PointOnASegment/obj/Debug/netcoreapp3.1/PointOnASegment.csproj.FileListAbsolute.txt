@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ExamPreparation\PointOnASegment\bin\Debug\netcoreapp3.1\PointOnASegment.exe
+C:\Users\ivang\source\repos\ExamPreparation\PointOnASegment\bin\Debug\netcoreapp3.1\PointOnASegment.deps.json
+C:\Users\ivang\source\repos\ExamPreparation\PointOnASegment\bin\Debug\netcoreapp3.1\PointOnASegment.runtimeconfig.json
+C:\Users\ivang\source\repos\ExamPreparation\PointOnASegment\bin\Debug\netcoreapp3.1\PointOnASegment.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ExamPreparation\PointOnASegment\bin\Debug\netcoreapp3.1\PointOnASegment.dll
+C:\Users\ivang\source\repos\ExamPreparation\PointOnASegment\bin\Debug\netcoreapp3.1\PointOnASegment.pdb
+C:\Users\ivang\source\repos\ExamPreparation\PointOnASegment\obj\Debug\netcoreapp3.1\PointOnASegment.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ExamPreparation\PointOnASegment\obj\Debug\netcoreapp3.1\PointOnASegment.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\PointOnASegment\obj\Debug\netcoreapp3.1\PointOnASegment.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ExamPreparation\PointOnASegment\obj\Debug\netcoreapp3.1\PointOnASegment.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ExamPreparation\PointOnASegment\obj\Debug\netcoreapp3.1\PointOnASegment.dll
+C:\Users\ivang\source\repos\ExamPreparation\PointOnASegment\obj\Debug\netcoreapp3.1\PointOnASegment.pdb
+C:\Users\ivang\source\repos\ExamPreparation\PointOnASegment\obj\Debug\netcoreapp3.1\PointOnASegment.genruntimeconfig.cache
