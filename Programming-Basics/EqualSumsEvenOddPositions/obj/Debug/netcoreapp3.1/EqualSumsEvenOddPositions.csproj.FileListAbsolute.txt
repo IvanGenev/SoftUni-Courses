@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\NestedLoopsExersize\EqualSumsEvenOddPositions\bin\Debug\netcoreapp3.1\EqualSumsEvenOddPositions.exe
+C:\Users\ivang\source\repos\NestedLoopsExersize\EqualSumsEvenOddPositions\bin\Debug\netcoreapp3.1\EqualSumsEvenOddPositions.deps.json
+C:\Users\ivang\source\repos\NestedLoopsExersize\EqualSumsEvenOddPositions\bin\Debug\netcoreapp3.1\EqualSumsEvenOddPositions.runtimeconfig.json
+C:\Users\ivang\source\repos\NestedLoopsExersize\EqualSumsEvenOddPositions\bin\Debug\netcoreapp3.1\EqualSumsEvenOddPositions.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\NestedLoopsExersize\EqualSumsEvenOddPositions\bin\Debug\netcoreapp3.1\EqualSumsEvenOddPositions.dll
+C:\Users\ivang\source\repos\NestedLoopsExersize\EqualSumsEvenOddPositions\bin\Debug\netcoreapp3.1\EqualSumsEvenOddPositions.pdb
+C:\Users\ivang\source\repos\NestedLoopsExersize\EqualSumsEvenOddPositions\obj\Debug\netcoreapp3.1\EqualSumsEvenOddPositions.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\NestedLoopsExersize\EqualSumsEvenOddPositions\obj\Debug\netcoreapp3.1\EqualSumsEvenOddPositions.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\NestedLoopsExersize\EqualSumsEvenOddPositions\obj\Debug\netcoreapp3.1\EqualSumsEvenOddPositions.AssemblyInfo.cs
+C:\Users\ivang\source\repos\NestedLoopsExersize\EqualSumsEvenOddPositions\obj\Debug\netcoreapp3.1\EqualSumsEvenOddPositions.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\NestedLoopsExersize\EqualSumsEvenOddPositions\obj\Debug\netcoreapp3.1\EqualSumsEvenOddPositions.dll
+C:\Users\ivang\source\repos\NestedLoopsExersize\EqualSumsEvenOddPositions\obj\Debug\netcoreapp3.1\EqualSumsEvenOddPositions.pdb
+C:\Users\ivang\source\repos\NestedLoopsExersize\EqualSumsEvenOddPositions\obj\Debug\netcoreapp3.1\EqualSumsEvenOddPositions.genruntimeconfig.cache

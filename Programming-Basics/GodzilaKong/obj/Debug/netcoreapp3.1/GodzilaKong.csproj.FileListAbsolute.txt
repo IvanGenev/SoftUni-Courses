@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\SimpleConditionsExam\GodzilaKong\bin\Debug\netcoreapp3.1\GodzilaKong.exe
+C:\Users\ivang\source\repos\SimpleConditionsExam\GodzilaKong\bin\Debug\netcoreapp3.1\GodzilaKong.deps.json
+C:\Users\ivang\source\repos\SimpleConditionsExam\GodzilaKong\bin\Debug\netcoreapp3.1\GodzilaKong.runtimeconfig.json
+C:\Users\ivang\source\repos\SimpleConditionsExam\GodzilaKong\bin\Debug\netcoreapp3.1\GodzilaKong.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\SimpleConditionsExam\GodzilaKong\bin\Debug\netcoreapp3.1\GodzilaKong.dll
+C:\Users\ivang\source\repos\SimpleConditionsExam\GodzilaKong\bin\Debug\netcoreapp3.1\GodzilaKong.pdb
+C:\Users\ivang\source\repos\SimpleConditionsExam\GodzilaKong\obj\Debug\netcoreapp3.1\GodzilaKong.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\SimpleConditionsExam\GodzilaKong\obj\Debug\netcoreapp3.1\GodzilaKong.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\SimpleConditionsExam\GodzilaKong\obj\Debug\netcoreapp3.1\GodzilaKong.AssemblyInfo.cs
+C:\Users\ivang\source\repos\SimpleConditionsExam\GodzilaKong\obj\Debug\netcoreapp3.1\GodzilaKong.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\SimpleConditionsExam\GodzilaKong\obj\Debug\netcoreapp3.1\GodzilaKong.dll
+C:\Users\ivang\source\repos\SimpleConditionsExam\GodzilaKong\obj\Debug\netcoreapp3.1\GodzilaKong.pdb
+C:\Users\ivang\source\repos\SimpleConditionsExam\GodzilaKong\obj\Debug\netcoreapp3.1\GodzilaKong.genruntimeconfig.cache

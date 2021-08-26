@@ -1,0 +1,12 @@
+C:\Users\ivang\source\repos\Simple Calculations\ChaningTiles\bin\Debug\netcoreapp3.1\ChangingTiles.exe
+C:\Users\ivang\source\repos\Simple Calculations\ChaningTiles\bin\Debug\netcoreapp3.1\ChangingTiles.deps.json
+C:\Users\ivang\source\repos\Simple Calculations\ChaningTiles\bin\Debug\netcoreapp3.1\ChangingTiles.runtimeconfig.json
+C:\Users\ivang\source\repos\Simple Calculations\ChaningTiles\bin\Debug\netcoreapp3.1\ChangingTiles.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\Simple Calculations\ChaningTiles\bin\Debug\netcoreapp3.1\ChangingTiles.dll
+C:\Users\ivang\source\repos\Simple Calculations\ChaningTiles\bin\Debug\netcoreapp3.1\ChangingTiles.pdb
+C:\Users\ivang\source\repos\Simple Calculations\ChaningTiles\obj\Debug\netcoreapp3.1\ChangingTiles.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\Simple Calculations\ChaningTiles\obj\Debug\netcoreapp3.1\ChangingTiles.AssemblyInfo.cs
+C:\Users\ivang\source\repos\Simple Calculations\ChaningTiles\obj\Debug\netcoreapp3.1\ChangingTiles.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\Simple Calculations\ChaningTiles\obj\Debug\netcoreapp3.1\ChangingTiles.dll
+C:\Users\ivang\source\repos\Simple Calculations\ChaningTiles\obj\Debug\netcoreapp3.1\ChangingTiles.pdb
+C:\Users\ivang\source\repos\Simple Calculations\ChaningTiles\obj\Debug\netcoreapp3.1\ChangingTiles.genruntimeconfig.cache

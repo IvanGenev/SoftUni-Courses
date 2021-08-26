@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\SimpleConditionsExam\TransPrice\bin\Debug\netcoreapp3.1\TransPrice.exe
+C:\Users\ivang\source\repos\SimpleConditionsExam\TransPrice\bin\Debug\netcoreapp3.1\TransPrice.deps.json
+C:\Users\ivang\source\repos\SimpleConditionsExam\TransPrice\bin\Debug\netcoreapp3.1\TransPrice.runtimeconfig.json
+C:\Users\ivang\source\repos\SimpleConditionsExam\TransPrice\bin\Debug\netcoreapp3.1\TransPrice.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\SimpleConditionsExam\TransPrice\bin\Debug\netcoreapp3.1\TransPrice.dll
+C:\Users\ivang\source\repos\SimpleConditionsExam\TransPrice\bin\Debug\netcoreapp3.1\TransPrice.pdb
+C:\Users\ivang\source\repos\SimpleConditionsExam\TransPrice\obj\Debug\netcoreapp3.1\TransPrice.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\SimpleConditionsExam\TransPrice\obj\Debug\netcoreapp3.1\TransPrice.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\SimpleConditionsExam\TransPrice\obj\Debug\netcoreapp3.1\TransPrice.AssemblyInfo.cs
+C:\Users\ivang\source\repos\SimpleConditionsExam\TransPrice\obj\Debug\netcoreapp3.1\TransPrice.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\SimpleConditionsExam\TransPrice\obj\Debug\netcoreapp3.1\TransPrice.dll
+C:\Users\ivang\source\repos\SimpleConditionsExam\TransPrice\obj\Debug\netcoreapp3.1\TransPrice.pdb
+C:\Users\ivang\source\repos\SimpleConditionsExam\TransPrice\obj\Debug\netcoreapp3.1\TransPrice.genruntimeconfig.cache

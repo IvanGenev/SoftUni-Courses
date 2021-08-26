@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\NestedLoopsExersize\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\NestedLoopsExersize\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\NestedLoopsExersize\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.AssemblyInfo.cs
+C:\Users\ivang\source\repos\NestedLoopsExersize\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\NestedLoopsExersize\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.exe
+C:\Users\ivang\source\repos\NestedLoopsExersize\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.deps.json
+C:\Users\ivang\source\repos\NestedLoopsExersize\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.runtimeconfig.json
+C:\Users\ivang\source\repos\NestedLoopsExersize\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\NestedLoopsExersize\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.dll
+C:\Users\ivang\source\repos\NestedLoopsExersize\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.pdb
+C:\Users\ivang\source\repos\NestedLoopsExersize\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.dll
+C:\Users\ivang\source\repos\NestedLoopsExersize\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.pdb
+C:\Users\ivang\source\repos\NestedLoopsExersize\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.genruntimeconfig.cache

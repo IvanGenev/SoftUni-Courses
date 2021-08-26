@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\Simple Calculations\BitcoinToEur\bin\Debug\netcoreapp3.1\BitcoinToEur.exe
+C:\Users\ivang\source\repos\Simple Calculations\BitcoinToEur\bin\Debug\netcoreapp3.1\BitcoinToEur.deps.json
+C:\Users\ivang\source\repos\Simple Calculations\BitcoinToEur\bin\Debug\netcoreapp3.1\BitcoinToEur.runtimeconfig.json
+C:\Users\ivang\source\repos\Simple Calculations\BitcoinToEur\bin\Debug\netcoreapp3.1\BitcoinToEur.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\Simple Calculations\BitcoinToEur\bin\Debug\netcoreapp3.1\BitcoinToEur.dll
+C:\Users\ivang\source\repos\Simple Calculations\BitcoinToEur\bin\Debug\netcoreapp3.1\BitcoinToEur.pdb
+C:\Users\ivang\source\repos\Simple Calculations\BitcoinToEur\obj\Debug\netcoreapp3.1\BitcoinToEur.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\Simple Calculations\BitcoinToEur\obj\Debug\netcoreapp3.1\BitcoinToEur.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\Simple Calculations\BitcoinToEur\obj\Debug\netcoreapp3.1\BitcoinToEur.AssemblyInfo.cs
+C:\Users\ivang\source\repos\Simple Calculations\BitcoinToEur\obj\Debug\netcoreapp3.1\BitcoinToEur.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\Simple Calculations\BitcoinToEur\obj\Debug\netcoreapp3.1\BitcoinToEur.dll
+C:\Users\ivang\source\repos\Simple Calculations\BitcoinToEur\obj\Debug\netcoreapp3.1\BitcoinToEur.pdb
+C:\Users\ivang\source\repos\Simple Calculations\BitcoinToEur\obj\Debug\netcoreapp3.1\BitcoinToEur.genruntimeconfig.cache

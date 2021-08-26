@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\SimpleConditionsExam\PipesInPool\bin\Debug\netcoreapp3.1\PipesInPool.exe
+C:\Users\ivang\source\repos\SimpleConditionsExam\PipesInPool\bin\Debug\netcoreapp3.1\PipesInPool.deps.json
+C:\Users\ivang\source\repos\SimpleConditionsExam\PipesInPool\bin\Debug\netcoreapp3.1\PipesInPool.runtimeconfig.json
+C:\Users\ivang\source\repos\SimpleConditionsExam\PipesInPool\bin\Debug\netcoreapp3.1\PipesInPool.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\SimpleConditionsExam\PipesInPool\bin\Debug\netcoreapp3.1\PipesInPool.dll
+C:\Users\ivang\source\repos\SimpleConditionsExam\PipesInPool\bin\Debug\netcoreapp3.1\PipesInPool.pdb
+C:\Users\ivang\source\repos\SimpleConditionsExam\PipesInPool\obj\Debug\netcoreapp3.1\PipesInPool.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\SimpleConditionsExam\PipesInPool\obj\Debug\netcoreapp3.1\PipesInPool.AssemblyInfo.cs
+C:\Users\ivang\source\repos\SimpleConditionsExam\PipesInPool\obj\Debug\netcoreapp3.1\PipesInPool.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\SimpleConditionsExam\PipesInPool\obj\Debug\netcoreapp3.1\PipesInPool.dll
+C:\Users\ivang\source\repos\SimpleConditionsExam\PipesInPool\obj\Debug\netcoreapp3.1\PipesInPool.pdb
+C:\Users\ivang\source\repos\SimpleConditionsExam\PipesInPool\obj\Debug\netcoreapp3.1\PipesInPool.genruntimeconfig.cache
+C:\Users\ivang\source\repos\SimpleConditionsExam\PipesInPool\obj\Debug\netcoreapp3.1\PipesInPool.csprojAssemblyReference.cache

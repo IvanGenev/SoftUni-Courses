@@ -1,0 +1,12 @@
+C:\Users\ivang\source\repos\NestedLoopsLAB\Traveling\bin\Debug\netcoreapp3.1\Traveling.exe
+C:\Users\ivang\source\repos\NestedLoopsLAB\Traveling\bin\Debug\netcoreapp3.1\Traveling.deps.json
+C:\Users\ivang\source\repos\NestedLoopsLAB\Traveling\bin\Debug\netcoreapp3.1\Traveling.runtimeconfig.json
+C:\Users\ivang\source\repos\NestedLoopsLAB\Traveling\bin\Debug\netcoreapp3.1\Traveling.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\NestedLoopsLAB\Traveling\bin\Debug\netcoreapp3.1\Traveling.dll
+C:\Users\ivang\source\repos\NestedLoopsLAB\Traveling\bin\Debug\netcoreapp3.1\Traveling.pdb
+C:\Users\ivang\source\repos\NestedLoopsLAB\Traveling\obj\Debug\netcoreapp3.1\Traveling.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\NestedLoopsLAB\Traveling\obj\Debug\netcoreapp3.1\Traveling.AssemblyInfo.cs
+C:\Users\ivang\source\repos\NestedLoopsLAB\Traveling\obj\Debug\netcoreapp3.1\Traveling.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\NestedLoopsLAB\Traveling\obj\Debug\netcoreapp3.1\Traveling.dll
+C:\Users\ivang\source\repos\NestedLoopsLAB\Traveling\obj\Debug\netcoreapp3.1\Traveling.pdb
+C:\Users\ivang\source\repos\NestedLoopsLAB\Traveling\obj\Debug\netcoreapp3.1\Traveling.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\NestedLoopsLAB\Combinations\bin\Debug\netcoreapp3.1\Combinations.exe
+C:\Users\ivang\source\repos\NestedLoopsLAB\Combinations\bin\Debug\netcoreapp3.1\Combinations.deps.json
+C:\Users\ivang\source\repos\NestedLoopsLAB\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.json
+C:\Users\ivang\source\repos\NestedLoopsLAB\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\NestedLoopsLAB\Combinations\bin\Debug\netcoreapp3.1\Combinations.dll
+C:\Users\ivang\source\repos\NestedLoopsLAB\Combinations\bin\Debug\netcoreapp3.1\Combinations.pdb
+C:\Users\ivang\source\repos\NestedLoopsLAB\Combinations\obj\Debug\netcoreapp3.1\Combinations.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\NestedLoopsLAB\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\NestedLoopsLAB\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfo.cs
+C:\Users\ivang\source\repos\NestedLoopsLAB\Combinations\obj\Debug\netcoreapp3.1\Combinations.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\NestedLoopsLAB\Combinations\obj\Debug\netcoreapp3.1\Combinations.dll
+C:\Users\ivang\source\repos\NestedLoopsLAB\Combinations\obj\Debug\netcoreapp3.1\Combinations.pdb
+C:\Users\ivang\source\repos\NestedLoopsLAB\Combinations\obj\Debug\netcoreapp3.1\Combinations.genruntimeconfig.cache

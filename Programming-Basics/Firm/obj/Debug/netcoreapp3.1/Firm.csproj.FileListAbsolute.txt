@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\SimpleConditionsExam\Firm\bin\Debug\netcoreapp3.1\Firm.exe
+C:\Users\ivang\source\repos\SimpleConditionsExam\Firm\bin\Debug\netcoreapp3.1\Firm.deps.json
+C:\Users\ivang\source\repos\SimpleConditionsExam\Firm\bin\Debug\netcoreapp3.1\Firm.runtimeconfig.json
+C:\Users\ivang\source\repos\SimpleConditionsExam\Firm\bin\Debug\netcoreapp3.1\Firm.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\SimpleConditionsExam\Firm\bin\Debug\netcoreapp3.1\Firm.dll
+C:\Users\ivang\source\repos\SimpleConditionsExam\Firm\bin\Debug\netcoreapp3.1\Firm.pdb
+C:\Users\ivang\source\repos\SimpleConditionsExam\Firm\obj\Debug\netcoreapp3.1\Firm.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\SimpleConditionsExam\Firm\obj\Debug\netcoreapp3.1\Firm.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\SimpleConditionsExam\Firm\obj\Debug\netcoreapp3.1\Firm.AssemblyInfo.cs
+C:\Users\ivang\source\repos\SimpleConditionsExam\Firm\obj\Debug\netcoreapp3.1\Firm.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\SimpleConditionsExam\Firm\obj\Debug\netcoreapp3.1\Firm.dll
+C:\Users\ivang\source\repos\SimpleConditionsExam\Firm\obj\Debug\netcoreapp3.1\Firm.pdb
+C:\Users\ivang\source\repos\SimpleConditionsExam\Firm\obj\Debug\netcoreapp3.1\Firm.genruntimeconfig.cache

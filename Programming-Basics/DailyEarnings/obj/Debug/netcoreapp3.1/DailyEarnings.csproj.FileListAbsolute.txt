@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\Simple Calculations\DailyEarnings\bin\Debug\netcoreapp3.1\DailyEarnings.exe
+C:\Users\ivang\source\repos\Simple Calculations\DailyEarnings\bin\Debug\netcoreapp3.1\DailyEarnings.deps.json
+C:\Users\ivang\source\repos\Simple Calculations\DailyEarnings\bin\Debug\netcoreapp3.1\DailyEarnings.runtimeconfig.json
+C:\Users\ivang\source\repos\Simple Calculations\DailyEarnings\bin\Debug\netcoreapp3.1\DailyEarnings.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\Simple Calculations\DailyEarnings\bin\Debug\netcoreapp3.1\DailyEarnings.dll
+C:\Users\ivang\source\repos\Simple Calculations\DailyEarnings\bin\Debug\netcoreapp3.1\DailyEarnings.pdb
+C:\Users\ivang\source\repos\Simple Calculations\DailyEarnings\obj\Debug\netcoreapp3.1\DailyEarnings.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\Simple Calculations\DailyEarnings\obj\Debug\netcoreapp3.1\DailyEarnings.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\Simple Calculations\DailyEarnings\obj\Debug\netcoreapp3.1\DailyEarnings.AssemblyInfo.cs
+C:\Users\ivang\source\repos\Simple Calculations\DailyEarnings\obj\Debug\netcoreapp3.1\DailyEarnings.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\Simple Calculations\DailyEarnings\obj\Debug\netcoreapp3.1\DailyEarnings.dll
+C:\Users\ivang\source\repos\Simple Calculations\DailyEarnings\obj\Debug\netcoreapp3.1\DailyEarnings.pdb
+C:\Users\ivang\source\repos\Simple Calculations\DailyEarnings\obj\Debug\netcoreapp3.1\DailyEarnings.genruntimeconfig.cache

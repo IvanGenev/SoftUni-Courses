@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\SimpleConditionsExam\SleepyTomCat\bin\Debug\netcoreapp3.1\SleepyTomCat.exe
+C:\Users\ivang\source\repos\SimpleConditionsExam\SleepyTomCat\bin\Debug\netcoreapp3.1\SleepyTomCat.deps.json
+C:\Users\ivang\source\repos\SimpleConditionsExam\SleepyTomCat\bin\Debug\netcoreapp3.1\SleepyTomCat.runtimeconfig.json
+C:\Users\ivang\source\repos\SimpleConditionsExam\SleepyTomCat\bin\Debug\netcoreapp3.1\SleepyTomCat.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\SimpleConditionsExam\SleepyTomCat\bin\Debug\netcoreapp3.1\SleepyTomCat.dll
+C:\Users\ivang\source\repos\SimpleConditionsExam\SleepyTomCat\bin\Debug\netcoreapp3.1\SleepyTomCat.pdb
+C:\Users\ivang\source\repos\SimpleConditionsExam\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\SimpleConditionsExam\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\SimpleConditionsExam\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.AssemblyInfo.cs
+C:\Users\ivang\source\repos\SimpleConditionsExam\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\SimpleConditionsExam\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.dll
+C:\Users\ivang\source\repos\SimpleConditionsExam\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.pdb
+C:\Users\ivang\source\repos\SimpleConditionsExam\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.genruntimeconfig.cache
