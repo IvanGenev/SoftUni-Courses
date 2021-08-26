@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ForCycleLAB\EvenPowers2\bin\Debug\netcoreapp3.1\EvenPowers2.exe
+C:\Users\ivang\source\repos\ForCycleLAB\EvenPowers2\bin\Debug\netcoreapp3.1\EvenPowers2.deps.json
+C:\Users\ivang\source\repos\ForCycleLAB\EvenPowers2\bin\Debug\netcoreapp3.1\EvenPowers2.runtimeconfig.json
+C:\Users\ivang\source\repos\ForCycleLAB\EvenPowers2\bin\Debug\netcoreapp3.1\EvenPowers2.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ForCycleLAB\EvenPowers2\bin\Debug\netcoreapp3.1\EvenPowers2.dll
+C:\Users\ivang\source\repos\ForCycleLAB\EvenPowers2\bin\Debug\netcoreapp3.1\EvenPowers2.pdb
+C:\Users\ivang\source\repos\ForCycleLAB\EvenPowers2\obj\Debug\netcoreapp3.1\EvenPowers2.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ForCycleLAB\EvenPowers2\obj\Debug\netcoreapp3.1\EvenPowers2.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ForCycleLAB\EvenPowers2\obj\Debug\netcoreapp3.1\EvenPowers2.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ForCycleLAB\EvenPowers2\obj\Debug\netcoreapp3.1\EvenPowers2.dll
+C:\Users\ivang\source\repos\ForCycleLAB\EvenPowers2\obj\Debug\netcoreapp3.1\EvenPowers2.pdb
+C:\Users\ivang\source\repos\ForCycleLAB\EvenPowers2\obj\Debug\netcoreapp3.1\EvenPowers2.genruntimeconfig.cache
+C:\Users\ivang\source\repos\ForCycleLAB\EvenPowers2\obj\Debug\netcoreapp3.1\EvenPowers2.csprojAssemblyReference.cache

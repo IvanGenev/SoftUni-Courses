@@ -1,0 +1,12 @@
+C:\Users\ivang\source\repos\ForLoopExersize\DivideWithoutReminder\bin\Debug\netcoreapp3.1\DivideWithoutReminder.exe
+C:\Users\ivang\source\repos\ForLoopExersize\DivideWithoutReminder\bin\Debug\netcoreapp3.1\DivideWithoutReminder.deps.json
+C:\Users\ivang\source\repos\ForLoopExersize\DivideWithoutReminder\bin\Debug\netcoreapp3.1\DivideWithoutReminder.runtimeconfig.json
+C:\Users\ivang\source\repos\ForLoopExersize\DivideWithoutReminder\bin\Debug\netcoreapp3.1\DivideWithoutReminder.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ForLoopExersize\DivideWithoutReminder\bin\Debug\netcoreapp3.1\DivideWithoutReminder.dll
+C:\Users\ivang\source\repos\ForLoopExersize\DivideWithoutReminder\bin\Debug\netcoreapp3.1\DivideWithoutReminder.pdb
+C:\Users\ivang\source\repos\ForLoopExersize\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ForLoopExersize\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ForLoopExersize\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ForLoopExersize\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.dll
+C:\Users\ivang\source\repos\ForLoopExersize\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.pdb
+C:\Users\ivang\source\repos\ForLoopExersize\DivideWithoutReminder\obj\Debug\netcoreapp3.1\DivideWithoutReminder.genruntimeconfig.cache

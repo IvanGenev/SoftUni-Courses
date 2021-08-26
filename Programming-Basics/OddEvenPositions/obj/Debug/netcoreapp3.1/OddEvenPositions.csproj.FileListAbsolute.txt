@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\ForLoopExersize\OddEvenPositions\bin\Debug\netcoreapp3.1\OddEvenPositions.exe
+C:\Users\ivang\source\repos\ForLoopExersize\OddEvenPositions\bin\Debug\netcoreapp3.1\OddEvenPositions.deps.json
+C:\Users\ivang\source\repos\ForLoopExersize\OddEvenPositions\bin\Debug\netcoreapp3.1\OddEvenPositions.runtimeconfig.json
+C:\Users\ivang\source\repos\ForLoopExersize\OddEvenPositions\bin\Debug\netcoreapp3.1\OddEvenPositions.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\ForLoopExersize\OddEvenPositions\bin\Debug\netcoreapp3.1\OddEvenPositions.dll
+C:\Users\ivang\source\repos\ForLoopExersize\OddEvenPositions\bin\Debug\netcoreapp3.1\OddEvenPositions.pdb
+C:\Users\ivang\source\repos\ForLoopExersize\OddEvenPositions\obj\Debug\netcoreapp3.1\OddEvenPositions.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\ForLoopExersize\OddEvenPositions\obj\Debug\netcoreapp3.1\OddEvenPositions.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\ForLoopExersize\OddEvenPositions\obj\Debug\netcoreapp3.1\OddEvenPositions.AssemblyInfo.cs
+C:\Users\ivang\source\repos\ForLoopExersize\OddEvenPositions\obj\Debug\netcoreapp3.1\OddEvenPositions.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\ForLoopExersize\OddEvenPositions\obj\Debug\netcoreapp3.1\OddEvenPositions.dll
+C:\Users\ivang\source\repos\ForLoopExersize\OddEvenPositions\obj\Debug\netcoreapp3.1\OddEvenPositions.pdb
+C:\Users\ivang\source\repos\ForLoopExersize\OddEvenPositions\obj\Debug\netcoreapp3.1\OddEvenPositions.genruntimeconfig.cache
