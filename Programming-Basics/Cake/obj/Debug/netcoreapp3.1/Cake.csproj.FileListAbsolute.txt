@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\WhileLoopExersize\Cake\bin\Debug\netcoreapp3.1\Cake.exe
+C:\Users\ivang\source\repos\WhileLoopExersize\Cake\bin\Debug\netcoreapp3.1\Cake.deps.json
+C:\Users\ivang\source\repos\WhileLoopExersize\Cake\bin\Debug\netcoreapp3.1\Cake.runtimeconfig.json
+C:\Users\ivang\source\repos\WhileLoopExersize\Cake\bin\Debug\netcoreapp3.1\Cake.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\WhileLoopExersize\Cake\bin\Debug\netcoreapp3.1\Cake.dll
+C:\Users\ivang\source\repos\WhileLoopExersize\Cake\bin\Debug\netcoreapp3.1\Cake.pdb
+C:\Users\ivang\source\repos\WhileLoopExersize\Cake\obj\Debug\netcoreapp3.1\Cake.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\WhileLoopExersize\Cake\obj\Debug\netcoreapp3.1\Cake.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\WhileLoopExersize\Cake\obj\Debug\netcoreapp3.1\Cake.AssemblyInfo.cs
+C:\Users\ivang\source\repos\WhileLoopExersize\Cake\obj\Debug\netcoreapp3.1\Cake.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\WhileLoopExersize\Cake\obj\Debug\netcoreapp3.1\Cake.dll
+C:\Users\ivang\source\repos\WhileLoopExersize\Cake\obj\Debug\netcoreapp3.1\Cake.pdb
+C:\Users\ivang\source\repos\WhileLoopExersize\Cake\obj\Debug\netcoreapp3.1\Cake.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\WhileLoopExersize\Vacation\bin\Debug\netcoreapp3.1\Vacation.exe
+C:\Users\ivang\source\repos\WhileLoopExersize\Vacation\bin\Debug\netcoreapp3.1\Vacation.deps.json
+C:\Users\ivang\source\repos\WhileLoopExersize\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.json
+C:\Users\ivang\source\repos\WhileLoopExersize\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\WhileLoopExersize\Vacation\bin\Debug\netcoreapp3.1\Vacation.dll
+C:\Users\ivang\source\repos\WhileLoopExersize\Vacation\bin\Debug\netcoreapp3.1\Vacation.pdb
+C:\Users\ivang\source\repos\WhileLoopExersize\Vacation\obj\Debug\netcoreapp3.1\Vacation.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\WhileLoopExersize\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\WhileLoopExersize\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfo.cs
+C:\Users\ivang\source\repos\WhileLoopExersize\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\WhileLoopExersize\Vacation\obj\Debug\netcoreapp3.1\Vacation.dll
+C:\Users\ivang\source\repos\WhileLoopExersize\Vacation\obj\Debug\netcoreapp3.1\Vacation.pdb
+C:\Users\ivang\source\repos\WhileLoopExersize\Vacation\obj\Debug\netcoreapp3.1\Vacation.genruntimeconfig.cache

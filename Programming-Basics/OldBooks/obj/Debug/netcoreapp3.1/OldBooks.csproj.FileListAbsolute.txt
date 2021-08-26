@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\WhileLoopExersize\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.exe
+C:\Users\ivang\source\repos\WhileLoopExersize\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.deps.json
+C:\Users\ivang\source\repos\WhileLoopExersize\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.runtimeconfig.json
+C:\Users\ivang\source\repos\WhileLoopExersize\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\WhileLoopExersize\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.dll
+C:\Users\ivang\source\repos\WhileLoopExersize\OldBooks\bin\Debug\netcoreapp3.1\OldBooks.pdb
+C:\Users\ivang\source\repos\WhileLoopExersize\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\WhileLoopExersize\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\WhileLoopExersize\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.AssemblyInfo.cs
+C:\Users\ivang\source\repos\WhileLoopExersize\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\WhileLoopExersize\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.dll
+C:\Users\ivang\source\repos\WhileLoopExersize\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.pdb
+C:\Users\ivang\source\repos\WhileLoopExersize\OldBooks\obj\Debug\netcoreapp3.1\OldBooks.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ivang\source\repos\WhileLoopExersize\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.exe
+C:\Users\ivang\source\repos\WhileLoopExersize\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.deps.json
+C:\Users\ivang\source\repos\WhileLoopExersize\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.runtimeconfig.json
+C:\Users\ivang\source\repos\WhileLoopExersize\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.runtimeconfig.dev.json
+C:\Users\ivang\source\repos\WhileLoopExersize\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.dll
+C:\Users\ivang\source\repos\WhileLoopExersize\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.pdb
+C:\Users\ivang\source\repos\WhileLoopExersize\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.csprojAssemblyReference.cache
+C:\Users\ivang\source\repos\WhileLoopExersize\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.AssemblyInfoInputs.cache
+C:\Users\ivang\source\repos\WhileLoopExersize\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.AssemblyInfo.cs
+C:\Users\ivang\source\repos\WhileLoopExersize\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\ivang\source\repos\WhileLoopExersize\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.dll
+C:\Users\ivang\source\repos\WhileLoopExersize\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.pdb
+C:\Users\ivang\source\repos\WhileLoopExersize\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.genruntimeconfig.cache
